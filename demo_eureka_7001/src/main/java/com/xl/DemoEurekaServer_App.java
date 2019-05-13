@@ -1,4 +1,4 @@
-package demo_eureka_7001;
+package com.xl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
