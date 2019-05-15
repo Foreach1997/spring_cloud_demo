@@ -43,5 +43,6 @@
 		<module>demo_consumer-emp-80</module>
 		<module>demo_eureka_7001</module>
 		<module>demo_provider_emp_8001</module>
+		<module>demo_eureka_7002</module>
 	</modules>
 </project>
