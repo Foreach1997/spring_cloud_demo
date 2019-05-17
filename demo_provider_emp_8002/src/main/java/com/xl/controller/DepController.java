@@ -10,6 +10,6 @@ public class DepController {
 
 	@GetMapping("/test")
 	public String getTest() {
-		return "8001";
+		return "8002";
 	}
 }

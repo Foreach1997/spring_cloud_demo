@@ -13,8 +13,8 @@ import org.springframework.web.client.RestTemplate;
 @RequestMapping("/consumer")
 public class DepController {
 
-	private  final  String  url= "http://SPRINGCLOUD_DEMO_EMP/"; 
-	
+	private  final  String  url= "http://SPRINGCLOUD-DEMO-EMP/"; 
+	//private  final  String  url= "http://localhost:8001/"; 
 	@Autowired
 	private RestTemplate restTemplate;
 	

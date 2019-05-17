@@ -44,5 +44,6 @@
 		<module>demo_eureka_7001</module>
 		<module>demo_provider_emp_8001</module>
 		<module>demo_eureka_7002</module>
+		<module>demo_provider_emp_8002</module>
 	</modules>
 </project>
