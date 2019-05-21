@@ -10,9 +10,9 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
 @RibbonClient(name="SPRINGCLOUD-DEMO-EMP")
 public class DemoConsumerEmpApp {
 
-	
+	//12321312 
 	public static void main(String[] args) {
-		
+		System.out.println(123);
 		SpringApplication.run(DemoConsumerEmpApp.class, args);
 		
 	}
