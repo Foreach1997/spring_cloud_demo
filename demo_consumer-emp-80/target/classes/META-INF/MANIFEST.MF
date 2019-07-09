@@ -3,7 +3,7 @@ Implementation-Title: demo_consumer-emp-80
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Administrator
 Implementation-Vendor-Id: com.xl.spring_cloud
-Build-Jdk: 1.8.0_201
+Build-Jdk: 1.8.0_202
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/spring_cloud_demo/demo_consumer-emp-80
 Created-By: Maven Integration for Eclipse

@@ -17,7 +17,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://emp1.com:7001/eureka/,http://emp2.com:7006/eureka/
+      defaultZone: http://emp1.com:7001/eureka/,http://emp2.com:7002/eureka/
   instance:    
     instance-id: springcloud_demo_emp_8001
     prefer-ip-address: true   
