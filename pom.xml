@@ -46,5 +46,6 @@
 		<module>demo_eureka_7002</module>
 		<module>demo_provider_emp_8002</module>
 		<module>demo_consumer-fegin-80</module>
+		<module>demo_stream_8003</module>
 	</modules>
 </project>

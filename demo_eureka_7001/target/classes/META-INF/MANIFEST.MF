@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: demo_eureka_7001
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Administrator
+Built-By: luoji
 Implementation-Vendor-Id: com.xl.spring_cloud
-Build-Jdk: 1.8.0_202
+Build-Jdk: 1.8.0_201
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/spring_cloud_demo/demo_eureka_7001
 Created-By: Maven Integration for Eclipse
