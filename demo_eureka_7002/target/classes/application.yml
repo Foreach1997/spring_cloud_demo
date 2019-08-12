@@ -1,7 +1,9 @@
 server: 
   port: 7002
 
-eureka: 
+eureka:
+  server: 
+    e-i-p-bind-rebind-retries: 1
   instance:
     hostname: emp2.com #eureka服务端的实例名称
   client: 

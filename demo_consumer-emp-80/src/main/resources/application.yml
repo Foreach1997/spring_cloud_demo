@@ -10,8 +10,10 @@ spring:
     database: mysql
     hibernate:
       ddl-auto: update
- 
-eureka:
+springcloud-demo-emp: 
+  ribbon: 
+     MaxAutoRetriesNextServer: 0 
+     MaxAutoRetries: 0 eureka:
   client:
     register-with-eureka: false
     service-url:
